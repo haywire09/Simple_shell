@@ -1,1 +1,1 @@
-Simple Shell by Ayokunle and Oladosu
+Group project 2 - simple shell
